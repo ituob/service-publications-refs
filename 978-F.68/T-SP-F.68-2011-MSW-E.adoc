@@ -2,12 +2,10 @@
 :bureau: T
 :docnumber: 978-15.IV.2011
 :title: LIST OF TELEX DESTINATION CODES (TDC) AND TELEX NETWORK IDENTIFICATION CODES (TNIC)
-:series: 
-:series1: COMPLEMENT TO ITU-T RECOMMENDATIONS
-:series2: F.69 (06/1994) AND F.68 (11/1988)
+:complements: F.69 (06/1994), F.68 (11/1988)
 :published-date: 2011-04-15
 :status: draft
-:doctype: recommendation
+:doctype: service-publication
 :docfile: document.adoc
 :mn-document-class: itu
 :mn-output-extensions: xml,html,doc,rxl
