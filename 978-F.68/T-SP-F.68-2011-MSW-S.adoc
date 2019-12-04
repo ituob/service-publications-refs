@@ -2,12 +2,10 @@
 :bureau: T
 :docnumber: 978-15.IV.2011
 :title: LISTA DE CÓDIGOS TÉLEX DE DESTINO (CTD) Y CÓDIGOS DE IDENTIFICACIÓN DE RED TÉLEX (CIRT)
-:series: 
-:series1: COMPLEMENTO DE LAS RECOMENDACIONES 
-:series2: UIT-T F.69 (06/1994) Y UIT-T F.68 (11/1988)
+:complements: F.69 (06/1994), F.68 (11/1988)
 :published-date: 2011-04-15
 :status: draft
-:doctype: recommendation
+:doctype: service-publication
 :imagesdir: images
 :docfile: document.adoc
 :mn-document-class: itu
