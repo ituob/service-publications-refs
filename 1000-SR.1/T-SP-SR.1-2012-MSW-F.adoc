@@ -390,7 +390,6 @@ a|*_Sao Tomé-et-Principe_* +
 *_Santo Tomé y Príncipe_* +
 Le service télex n'est plus assuré.
 
-
 a|*_Arabie saoudite_* +
 *_Saudi Arabia_* +
 *_Arabia Saudita_* +
@@ -520,5 +519,3 @@ Le service de télécommunication avec Israël est suspendu. +
 Le service télex n'est plus assuré.
 
 |===
-
-
