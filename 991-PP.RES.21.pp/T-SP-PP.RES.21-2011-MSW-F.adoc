@@ -4,7 +4,7 @@
 :title: SYSTÈMES DE RAPPEL (CALL-BACK) ET PROCÉDURES D'APPEL ALTERNATIVES
 :published-date: 2011-11-01
 :status: draft
-:doctype: recommendation
+:doctype: service-publication
 :docfile: document.adoc
 :language: fr
 :mn-document-class: itu

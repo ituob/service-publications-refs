@@ -4,7 +4,7 @@
 :title: COMUNICACIONES POR INTERMEDIARO (CALL-BACK) Y PROCEDIMIENTOS ALTERNATIVOS DE LLAMADA
 :published-date: 2011-11-01
 :status: draft
-:doctype: recommendation
+:doctype: service-publication
 :docfile: document.adoc
 :language: es
 :mn-document-class: itu
