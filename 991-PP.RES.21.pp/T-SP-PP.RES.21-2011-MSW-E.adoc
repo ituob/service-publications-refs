@@ -4,7 +4,7 @@
 :title: CALL-BACK AND ALTERNATIVE CALLING PROCEDURES
 :published-date: 2011-11-01
 :status: draft
-:doctype: recommendation
+:doctype: service-publication
 :docfile: document.adoc
 :language: en
 :mn-document-class: itu
